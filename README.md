@@ -1,3 +1,5 @@
+### As of 1 January 2024, this repository will no longer be maintained.
+
 # CRF-Net for Object Detection (Camera and Radar Fusion Network)
 ![Radar Augmented Image Example](crfnet/images/imageplus_format.png)
 
